@@ -1,2 +1,2 @@
 # SoftwareEngineering
-IBM SW Enginnering Course Test Repo
+IBM SW Engineering Course Test Repo
